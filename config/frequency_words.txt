@@ -7,15 +7,17 @@
 
 
 DeepSeek
-梁文锋
 
 华为
 鸿蒙
 HarmonyOS
-任正非
 
 比亚迪
-王传福
+长城
+红旗
++汽车
+!五星红旗
+
 
 京东
 刘强东
@@ -29,12 +31,6 @@ bytedance
 
 微软
 Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
@@ -57,9 +53,6 @@ ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
 
 国产
 中国
